@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChatGTP_Cheat_Sheet.md",
+                "file": "00-Inbox/01..01-New Notes/ChatGTP_Cheat_Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChatGTP_Cheat_Sheet.md",
+                "file": "00-Inbox/01..01-New Notes/ChatGTP_Cheat_Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChatGTP_Cheat_Sheet.md",
+                "file": "00-Inbox/01..01-New Notes/ChatGTP_Cheat_Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChatGTP_Cheat_Sheet.md"
+                "file": "00-Inbox/01..01-New Notes/ChatGTP_Cheat_Sheet.md"
               }
             }
           }
@@ -148,6 +148,15 @@
   },
   "active": "ec4b79be01096f84",
   "lastOpenFiles": [
-    "ChatGTP_Cheat_Sheet.md"
+    "Untitled.canvas",
+    "00-Inbox/01..01-New Notes",
+    "00-Inbox",
+    "40-Archives/Untitled",
+    "40-Archives",
+    "30-Resources",
+    "20-Areas",
+    "10-Projects",
+    "00-Inbox/01..01-New Notes/ChatGTP_Cheat_Sheet.md",
+    "Untitled 1.canvas"
   ]
 }
