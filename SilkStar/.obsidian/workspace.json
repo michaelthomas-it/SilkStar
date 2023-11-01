@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "91fcaab8ea497610",
+        "id": "190ef5db0dbf1380",
         "type": "tabs",
         "children": [
           {
-            "id": "bbb86ccbc880e33a",
+            "id": "b19492376bea6e63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-Resources/Templates/Daily Log.md",
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f223048609231667",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30-Resources/Templates/Daily Log.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30-Resources/Templates/Daily Log.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-Resources/Templates/Daily Log.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -147,25 +160,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "450d08e5559272bb",
+  "active": "f223048609231667",
   "lastOpenFiles": [
-    "30-Resources/Templates/Note Template.md",
-    "!Master Index.md",
     "Attachments.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Step 1.md",
+    "Attachment Files",
+    "3-Resources/Templates/Note Template.md",
+    "4-Archives/Attachments.md",
+    "4-Archives/Capture-1.PNG",
+    "30-Resources/Templates/Untitled.md",
+    "!Master Index.md",
     "30-Resources/Templates/Daily Log.md",
     "00-Inbox/01..01-New Notes/Key_Essentials.md",
     "00-Inbox/01..01-New Notes/Structure_Maps_of_Content.md",
-    "Untitled 1.md",
-    "Untitled.canvas",
-    "30-Resources/Templates",
+    "3-Resources/Templates",
     "30-Resources/Untitled.md",
     "00-Inbox/01..01-New Notes",
-    "00-Inbox",
+    "0-Inbox",
     "40-Archives/Untitled",
-    "40-Archives",
-    "30-Resources",
-    "20-Areas",
-    "10-Projects",
+    "4-Archives",
+    "3-Resources",
+    "2-Areas",
+    "1-Projects",
     "Untitled 1.canvas"
   ]
 }
